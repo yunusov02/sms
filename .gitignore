@@ -1,0 +1,4 @@
+venv/
+.env
+# Pyhon byte-compiled / optimized files
+__pycache__/
